@@ -1,2 +1,2 @@
 # A2oj-by-rating
-![Screenshot 2022-12-19 143855](https://user-images.githubusercontent.com/70705072/208395272-f0aa1213-c501-4115-a37b-5a5ba4f8dc2d.png)
+![image](https://user-images.githubusercontent.com/70705072/209458796-cf51767c-00ee-4f49-8b4f-fd049f8bc910.jpg)
